@@ -18,6 +18,8 @@ Once you set these up you can run your c code smoothly and testing can be done f
 Also you might wonder why i made you install make
 
 the wonder of make is that you can keep retesting code wayyyyy faster than if you would type out the commands
+
+# so in the directory of the code type make
 ![img](https://github.com/Spurtastic/DockerTute/blob/main/imgs/Screenshot%20(208).png)
 
 just treat the stuff under all as the stuff you would type in the terminal. 
